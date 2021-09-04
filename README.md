@@ -1,6 +1,3 @@
 # JayaGaming
 
-Jaya gaming adalah sebuah project dari kelompok Jaya Coders
-
-KENNETH BUAYA SEJATI
-KENNETH LEMOT BGT
+Jaya Launcher adalah sebuah final project dari kelompok Jaya Coders
