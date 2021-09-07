@@ -485,7 +485,7 @@ bool lostOne(){
 			wordTmp[x]='*';
 			
 			printf("\n%s\n", wordTmp);
-			printf("\nGuess the missing letter!!\n");
+			printf("\nGuess the missing letter!! (one letter only)\n");
 			printf("(You got one chance :*)\n");
 			scanf("\n%c", &wordTmp[x]);
 			
